@@ -1,5 +1,6 @@
 # SoundcloudLikesFetcher
-Python script to get a file contains names and links to all of my liked songs on Soundcloud.
+<img src="https://github.com/HassanElDesouky/SoundcloudLikesFetcher/blob/master/Soundcloud%20likes.jpg"  align="center">
+A Python script to get a file contains names and links to all of my liked songs on Soundcloud.
 
 ## How to use
 ### Video
